@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # [Tokenization](https://www.youtube.com/watch?v=zduSFxRajkE)
 
 ### Table of Contents
